@@ -67,8 +67,8 @@ a {
 }
 
 .cursoroutline{
-    width:40px;
-    height:40px;
+    width:30px;
+    height:30px;
     border: 2px solid var(--fourth-color);
     border-radius: 50%;
     position: fixed;
@@ -80,8 +80,12 @@ a {
     transition: width 0.2s ease, height 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
 }
 .hovered .cursoroutline{
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     background-color: var(--fourth-color);
     
+}
+::selection{
+    background-color: var(--fourth-color);
+    color: var(--main-color);
 }

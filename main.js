@@ -16,8 +16,8 @@ window.addEventListener('mousemove', (e) => {
 });
 
 function animate() {
-    outlineX += (mouseX - outlineX) * 0.15;
-    outlineY += (mouseY - outlineY) * 0.15;
+    outlineX += (mouseX - outlineX) * 0.2
+    outlineY += (mouseY - outlineY) * 0.2
 
     cursorOutline.style.left = `${outlineX}px`;
     cursorOutline.style.top = `${outlineY}px`;
