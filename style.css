@@ -91,23 +91,10 @@ a {
 }
 
 .menu{
-    position: fixed;
-    bottom: 40px;
-    right: 40px;
-    width: 60px;
-    height: 60px;
-    z-index: 1100;
-}
-
-.menu-toggle{
-    width: 60px;
-    height: 60px;
-    background-color: var(--second-color);
-    border-radius: 50%;
-    border: 1px solid var(--main-color);
-}
-.menu-toggle.open .menu-toggle{
-    transform: rotate(135deg);
-    background-color: var(--fourth-color);
-    color: var(--third-color);
+ position: fixed;   
+ display:flex;
+ flex-direction:column;
+ justify-content: center;
+ height: 100vh;
+ background-color: var(--second-color);
 }
