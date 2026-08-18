@@ -1,0 +1,40 @@
+:root{
+    --main-color: #080616;
+    --second-color: #1A1953;
+    --third-color: #162E93;
+    --fourth-color: #2F2FE4;
+}
+
+
+body{
+    background-color: var(--main-color);
+    color: var(--third-color);
+}
+a {
+    color: var(--fourth-color);
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contact{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
