@@ -91,10 +91,13 @@ a {
 }
 
 .menu{
+top: 0;
+right: 0;
  position: fixed;   
  display:flex;
  flex-direction:column;
  justify-content: center;
  height: 100vh;
  background-color: var(--second-color);
+ border-radius: 8px;
 }
