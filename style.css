@@ -121,3 +121,8 @@ right: 0;
 .ID-active{
     filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
 }
+.contact-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
