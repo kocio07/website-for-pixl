@@ -112,3 +112,12 @@ right: 0;
 .ID{
     filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
 }
+.house-active{
+    filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+}
+.boxes-active{
+    filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+}
+.ID-active{
+    filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+}
