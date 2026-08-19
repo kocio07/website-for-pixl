@@ -151,4 +151,34 @@ right: 0;
  border-radius: 8px;
  padding: 2px;
     }
+    .house{
+    filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+    width:20px;
+    height:20px;
+    }
+    .boxes{
+        filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+        width:20px;
+        height:20px;
+    }
+    .ID{
+        filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+        width:20px;
+        height:20px;
+    }
+    .house-active{
+        filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+        width:20px;
+        height:20px;
+    }
+    .boxes-active{
+        filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+        width:20px;
+        height:20px;
+    }
+    .ID-active{
+        filter: brightness(0) saturate(100%) invert(2%) sepia(19%) saturate(6230%) hue-rotate(232deg) brightness(95%) contrast(102%);
+        width:20px;
+        height:20px;
+    }
 }
