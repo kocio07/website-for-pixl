@@ -102,3 +102,13 @@ right: 0;
  border-radius: 8px;
  padding: 20px;
 }
+
+.house{
+    filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+}
+.boxes{
+    filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+}
+.ID{
+    filter: brightness(0) saturate(100%) invert(43%) sepia(17%) saturate(513%) hue-rotate(228deg) brightness(94%) contrast(91%);
+}
