@@ -131,6 +131,7 @@ right: 0;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    gap: 50px;
 }
 .look{
     font-size: 1.5rem;
