@@ -17,8 +17,16 @@
 }
 @keyframes pulsowanie {
     0% { transform: scale(1); }
-    50% { transform: scale(1.2); }
+    50% { transform: scale(1.05); }
     100% { transform: scale(1); }
+}
+
+@keyframes obrot {
+    from {
+        tramsform: rotate(0deg);
+    } to {
+        transform: rotate(360deg);
+    }
 }
 
 body{
@@ -152,6 +160,9 @@ right: 0;
 }
 .look{
     font-size: 1.5rem;
+}
+.hi {
+    animation: obrot 0.5s linear;
 }
 
 
