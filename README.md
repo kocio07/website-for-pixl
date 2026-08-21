@@ -28,5 +28,14 @@ While working on this project I improved my frontedn skills such as:
 If you can see some errors or bugs you can email me here: frajerm4@gmail.com
 
 
+## AI usage
+Claude helped me with JavaScript for cursor
+
+## Credits 
+This page was created for Hack Club
+
+
+## License
+The project is licensed under the GNU GPL v3.
 
 
