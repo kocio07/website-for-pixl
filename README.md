@@ -1,6 +1,6 @@
 # website-for-pixl
 First website for pixl.hackclub.com
- **Live demo** [https://kocio07.github.io/website-for-pixl/]
+ **Live demo:** [https://kocio07.github.io/website-for-pixl](https://kocio07.github.io/website-for-pixl/)
 
 
 ## Showcase
@@ -18,6 +18,14 @@ On this website you can find some infomation about me, my best projects that I'm
 - CSS ( for style of the website )
 - JavaScript ( for interactive elements )
 
+## What I learned ?
+While working on this project I improved my frontedn skills such as:
+- Making custom cursor
+- Using grids and flexboxes
+- Animations
+
+## Note
+If you can see some errors or bugs you can email me here: frajerm4@gmail.com
 
 
 
